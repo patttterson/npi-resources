@@ -13,6 +13,9 @@ To be eligible for the tournament, you must have always been rated Emerald 1 or 
 2nd Place gets 3 months ($27 USD)
 
 3rd Place gets 1 month ($9 USD)
+
+>[!IMPORTANT]
+>Everyone who participates gets entered into a raffle for 1 month of diamond supporter ($9 USD) so lock in :3
 ## Tournament Format
 The tournament will follow a style similar to the MCSR Ranked Playoffs, but instead starting with a qualifying stage.
 ### Qualifier Stage
