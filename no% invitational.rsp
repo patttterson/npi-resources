@@ -1,0 +1,36 @@
+{
+  "author": "SubmissiveCatgir",
+  "name": "no% invitational",
+  "option": {
+    "overworldSeed": "",
+    "netherSeed": "",
+    "theEndSeed": "",
+    "rngSeed": "",
+    "flag": {
+      "list": [
+        {
+          "value": 9175052
+        },
+        {
+          "value": 0
+        }
+      ]
+    },
+    "category": "ANY",
+    "command": "",
+    "roomName": "no% invitational",
+    "waitingImageUrl": "",
+    "availableFakePlayer": false,
+    "fakePlayerLevel": "RANDOM",
+    "completions": 0,
+    "timeLimit": 0,
+    "timeAttack": 600,
+    "seedType": {
+      "value": 31
+    },
+    "gameMode": {
+      "type": "default"
+    }
+  },
+  "version": 2
+}
