@@ -1,4 +1,6 @@
 # no% Invitational
+No Reset Tournament, April 18th to April 19th :3
+
 why is the github for this public? why is there a github? idk man leave me alone
 
 organized by @pattersonuwu on discord, dm me for questions or to join
